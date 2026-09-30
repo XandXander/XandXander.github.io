@@ -1,0 +1,4 @@
+Contact: mailto:security@aunela.ru
+Preferred-Languages: ru, en
+Canonical: https://aunela.ru/.well-known/security.txt
+Expires: 2027-09-30T21:00:00Z
